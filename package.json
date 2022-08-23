@@ -1,0 +1,22 @@
+{
+  "name": "jest-tests_practice",
+  "version": "1.0.0",
+  "description": "Practical tests for JavaScript functions using Jest library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukumbuta/Jest-Tests_Practice.git"
+  },
+  "author": "Emmanuel Simasiku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mukumbuta/Jest-Tests_Practice/issues"
+  },
+  "homepage": "https://github.com/Mukumbuta/Jest-Tests_Practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
